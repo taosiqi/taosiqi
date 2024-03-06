@@ -1,12 +1,3 @@
-## 👇👇Hello 请看这里 👇👇  
-👉 欢迎点赞star加评论😊😊😊   
-👉 点这里去我的   [掘金](https://juejin.cn/user/2154698523020205)  
-👉 点这里去我的   [语雀](https://www.yuque.com/istao)
-👉 点这里查看我的  [bilibili](https://space.bilibili.com/253646371)   
-👉 点这里查看我的商业项目  [MFA 二次验证码](https://mfacode.cn)  
-👉 合作联系：siqijson@gmail.com  
-👉 文章遵循MIT开源协议，转发请备明来源！  
-
 ## 👇👇Hello, please check here👇👇  
 👉 Feel free to give a like, star, and leave a comment 😊😊😊  
 👉 Click here to visit my [掘金 (Juejin) profile](https://juejin.cn/user/2154698523020205)  
